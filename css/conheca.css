@@ -41,16 +41,16 @@
     margin-bottom: 1rem;
 }
 
-.conheca__produto__texto-destaque {
+.conheca___produto__texto-destaque {
     color: var(--cor-branco);
     font-weight: 700;
 }
 
 .conheca__produto-lista {
     color: var(--cor-branco);
-    line-height: 1.7;
-    list-style-type: disc;
+    list-style: disc;
     list-style-position: inside;
+    line-height: 1.7;
     margin-bottom: 1rem;
 }
 
@@ -96,6 +96,4 @@
         background-color: var(--cor-laranja);
         width: 33%;
     }
-
-
 }
